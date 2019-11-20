@@ -11,7 +11,7 @@
 
 ## todo
 - The model is still being trained ,I'll update soon.
- 
+- test in voc test data
  
  <p align="center"> <img src='result/dog.jpg' align="center" height="460"> </p>
  
